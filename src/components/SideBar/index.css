@@ -1,3 +1,52 @@
 .sideBar {
-  width: 275px;
+  width: 280px;
+  padding: 10px;
+  background: #191a1d;
+  color: #fff;
+}
+
+.sideBarInner {
+  background: #222427;
+  height: 100%;
+  position: relative;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+.sideBarInner p {
+  color: #fff;
+}
+
+.completedDiv {
+  margin-top: 40px;
+}
+
+.completedHeading {
+  font-size: 16px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.completedNumber {
+  font-size: 36px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.problemsTitle {
+  font-weight: 700;
+  font-size: 14px;
+  color: #545658;
+  text-transform: uppercase;
+}
+
+.pastData {
+  position: absolute;
+  bottom: 15px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 14px;
+  color: #545658;
+  text-transform: uppercase;
 }
