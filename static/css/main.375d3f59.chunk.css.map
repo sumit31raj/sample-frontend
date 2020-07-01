@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css","App.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,mJAEY,CACZ,kCAAmC,CACnC,iCACF,CAEA,KACE,yEAEF,CAZA,eACE,UACF,CAFA,SACE,WACF,CCFA,KACE,YAAa,CACb,kBAAmB,CACnB,YACF","file":"main.375d3f59.chunk.css","sourcesContent":[".sideBar {\n  width: 275px;\n}",".app {\n  display: flex;\n  flex-direction: row;\n  height: 100vh;\n}\n\n"]}
