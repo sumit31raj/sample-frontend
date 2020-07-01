@@ -13,7 +13,6 @@
   border-radius: 10px;
 }
 
-
 .sideBarInner p {
   color: #fff;
 }
@@ -49,4 +48,28 @@
   font-size: 14px;
   color: #545658;
   text-transform: uppercase;
+}
+
+.progressBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 140px;
+  margin: 20px;
+}
+
+.accuracyLabel {
+  font-size: 12px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.percentageLabel {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.percentageSymbol {
+  font-size: 10px;
+  color: #545658;
 }
